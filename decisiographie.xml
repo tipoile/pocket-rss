@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Décisiographie 101</title>
+    <link>https://www.helloaudio.fm/</link>
+    <description>Podcast Décisiographie 101 - Un podcast sur la prise de décision</description>
+    <language>fr-FR</language>
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:author>Décisiographie 101</itunes:author>
+    <itunes:summary>Podcast Décisiographie 101 - Un podcast sur la prise de décision</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Décisiographie 101</itunes:name>
+      <itunes:email>contact@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://d32kcwy5dai345.cloudfront.net/a1cb7b40-4be3-4ee3-a8d6-b62c8e0304a0.jpg"/>
+    <image>
+      <url>https://d32kcwy5dai345.cloudfront.net/a1cb7b40-4be3-4ee3-a8d6-b62c8e0304a0.jpg</url>
+      <title>Décisiographie 101</title>
+      <link>https://www.helloaudio.fm/</link>
+    </image>
+
+    <item>
+      <title>Mot de bienvenue</title>
+      <description>Episode d'introduction du podcast Décisiographie 101</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/947c64ab-f5d1-4931-9810-09af85a8b533.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/947c64ab-f5d1-4931-9810-09af85a8b533.mp3</guid>
+      <pubDate>Mon, 01 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>04:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Quelques directives</title>
+      <description>Les directives pour bien comprendre la décisiographie</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/683de42d-2d17-46e7-998e-293ab8f36487.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/683de42d-2d17-46e7-998e-293ab8f36487.mp3</guid>
+      <pubDate>Mon, 02 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>05:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Éthique de la décisiographie</title>
+      <description>Les aspects éthiques de la décisiographie</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/1b583b0b-18df-4986-b04b-9cb2e58ba7bc.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/1b583b0b-18df-4986-b04b-9cb2e58ba7bc.mp3</guid>
+      <pubDate>Mon, 03 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>03:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Quelle décision cartographier?</title>
+      <description>Comment choisir quelles décisions cartographier</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/6211d849-53f4-4a04-bc92-5e79f88b52db.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/6211d849-53f4-4a04-bc92-5e79f88b52db.mp3</guid>
+      <pubDate>Mon, 04 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>03:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Le maudit client idéal</title>
+      <description>À propos du concept de client idéal en décisiographie</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/a9d809ab-0263-4089-8175-0c898893b1ae.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/a9d809ab-0263-4089-8175-0c898893b1ae.mp3</guid>
+      <pubDate>Mon, 05 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>04:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Nous ne sommes pas rationnels</title>
+      <description>L'irrationalité dans nos processus de décision</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/45bf271b-0bb5-475c-ad9d-6914f6114682.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/45bf271b-0bb5-475c-ad9d-6914f6114682.mp3</guid>
+      <pubDate>Mon, 06 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>03:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>En manque d'attention?</title>
+      <description>L'impact de l'attention sur nos décisions</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/309855aa-33e2-4a2a-ad65-df3ef00988d3.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/309855aa-33e2-4a2a-ad65-df3ef00988d3.mp3</guid>
+      <pubDate>Mon, 07 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>03:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Tout est relatif</title>
+      <description>La relativité dans la prise de décision</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/b29d61b8-a15b-4e70-84e6-79a8dbe86f37.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/b29d61b8-a15b-4e70-84e6-79a8dbe86f37.mp3</guid>
+      <pubDate>Mon, 08 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>03:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>La matrice des bénéfices</title>
+      <description>Comment utiliser la matrice des bénéfices en décisiographie</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/f586fafe-3fee-4e75-a500-96bbf136cb6e.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/f586fafe-3fee-4e75-a500-96bbf136cb6e.mp3</guid>
+      <pubDate>Mon, 09 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>06:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Les normes sociales</title>
+      <description>L'influence des normes sociales sur nos décisions</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/777e485a-072b-431c-bf23-03a0e9841992.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/777e485a-072b-431c-bf23-03a0e9841992.mp3</guid>
+      <pubDate>Mon, 10 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>04:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Intermède créatif</title>
+      <description>Un intermède créatif dans la série Décisiographie 101</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/5be3cb0a-0d9b-4a6c-a7d5-4787c0f36308.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/5be3cb0a-0d9b-4a6c-a7d5-4787c0f36308.mp3</guid>
+      <pubDate>Mon, 11 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>02:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>C'est quoi, une croyance?</title>
+      <description>Exploration du concept de croyance en décisiographie</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/f2ddfa43-db0c-4078-9a46-0194dea36bab.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/f2ddfa43-db0c-4078-9a46-0194dea36bab.mp3</guid>
+      <pubDate>Mon, 12 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>06:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Les croyances primordiales</title>
+      <description>Les croyances fondamentales qui influencent nos décisions</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/955e0d7f-dfb6-4444-8175-13a1ee88b4c9.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/955e0d7f-dfb6-4444-8175-13a1ee88b4c9.mp3</guid>
+      <pubDate>Mon, 13 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>03:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Le parcours décisionnel</title>
+      <description>Comprendre le parcours complet de la prise de décision</description>
+      <enclosure url="https://podcasts.helloaudio.fm/download/bWVbnYNlSe/e1d9b915-f77b-49e0-93fb-365076e2ddb2.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://podcasts.helloaudio.fm/download/bWVbnYNlSe/e1d9b915-f77b-49e0-93fb-365076e2ddb2.mp3</guid>
+      <pubDate>Mon, 14 Jan 2024 10:00:00 GMT</pubDate>
+      <itunes:duration>06:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
